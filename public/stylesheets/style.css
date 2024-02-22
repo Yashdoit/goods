@@ -1,0 +1,153 @@
+.mainbox{
+  width: 100%;
+  height: 100%;
+  background: rgb(151, 141, 141);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.box{
+  width: 50%;
+  height: auto;
+  background: #fff;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.boxtable{
+  width: 80%;
+  height: auto;
+  background: #fff;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.fontstyle{
+  font-weight: bold;
+  font-family: 'Oswald';
+  font-size: 20px;
+  color: #3d3d3d;
+}
+
+.centerstyle{
+  display: flex;
+  align-items: center;
+}
+
+.centerstyletwo{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+
+.loginmainbox{
+  width: 100%;
+  height: 100%;
+  background: rgb(255, 255, 255);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.loginbox{
+  width: 90%;
+  height: auto;
+  background: #fff;
+}
+
+
+.dashcontainer{
+  width: 100%;
+  height: 100%;
+  background: rgb(151, 141, 141);
+  
+}
+
+.navstrip{
+  width: 100%;
+  height: 10%;
+  background: #000;
+}
+
+.navstyle{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 25px;
+}
+
+.fontstyletwo{
+  font-size: 35px;
+  color: white;
+  font-family: 'Oswald';
+  font-weight: bolder;
+}
+
+.fontstylethree{
+  font-size: 20px;
+  color: white;
+  font-family: 'Oswald';
+  font-weight: bolder;
+}
+
+
+.sidenav{
+  width: 15%;
+  height: 100%;
+  background: rgb(255, 255, 255);
+}
+
+.imgstyle{
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+
+}
+
+.adminname{
+  font-family: Oswald; 
+  font-weight: bolder; 
+  display: flex; 
+  justify-content: center; 
+  font-size: 20px; 
+  color: black;
+}
+
+.contact{
+  font-family: Oswald; 
+  font-weight: bolder; 
+  display: flex; 
+  align-items: center;
+  flex-direction: column;
+  font-size: 12px; 
+  color: blue;
+}
+
+.menustyle{
+  display: flex;
+  justify-content: center;
+  margin-left: 40px;
+  flex-direction: column;
+  margin-top: 40px;
+}
+
+.itemstyle{
+  margin-top: 20px;
+}
+
+.contentstyle{
+  
+  margin: 20px;
+  width: 90%;
+  
+}
+
+
+
+
